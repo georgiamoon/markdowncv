@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+## Work History
 
-You can use the [editor on GitHub](https://github.com/georgiamoon/markdowncv/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+decide what to have here.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### [Open Technology Institute @ New America](https://newamerica.org/oti)
 
-### Markdown
+#### Roles
+- Director of Technology Projects, Jan 2016 ~ Current
+- Technology Projects Manager, Jun 2015 ~ Jan 2016
+- Senior Data Analyst, Aug 2014 ~ Jun 2015
+- Field Operations Technologist, Sept 2012 ~ Aug 2014
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Projects & Publications
+- Measurement Lab
+- Public Interest Technology
+-- Public Interest Tech Baseline Project
+-- TechCongress
+- Commotion Wireless
+-- Digital Stewards Program
+-- Red Hook Wireless Project
+-- Community Technology
+- DataViz Projects
+-- Detroit Future Analysis
+-- Global Cyber Definitions Database
+-- Swing States Visualization
 
-```markdown
-Syntax highlighted code block
+### Spatial Information Design Lab @ Columbia Univeristy
 
-# Header 1
-## Header 2
-### Header 3
+#### Roles
 
-- Bulleted
-- List
+#### Projects
 
-1. Numbered
-2. List
+### 
 
-**Bold** and _Italic_ and `Code` text
+## Education
 
-[Link](url) and ![Image](src)
-```
+### MS in Urban Planning, Columbia University, Graduate School of Architecture, Planning & Preservation
+### BS in Psychology & Human-Computer Interation, [Carnegie Mellon University](https://cmu.edu)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Freelance
 
-### Jekyll Themes
+### Sweetwater Organics
+### WXY
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/georgiamoon/markdowncv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Teaching
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Johns Hopkins University, Aitchenson Program, Fall 2016, "Numbers, Pictures, Politics" with Lee Drutman
+### Columbia University, Graduate School of Architecture, Planning & Presrvation, Urban Planning Program, Fall 2013, "Civic Hacking"
+### Columbia University, Graduate School of Architecture, Planning & Presrvation, Urban Planning Program, Fall 2012, "Civic Hacking"
+### Columbia University, Graduate School of Architecture, Planning & Presrvation, Urban Planning Program, Spring 2012, "Mapping"
+### Columbia University, Graduate School of Architecture, Planning & Presrvation, Urban Planning Program, Fall 2011, "Crowd Sourced City"
