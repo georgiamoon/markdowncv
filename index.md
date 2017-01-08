@@ -1,6 +1,4 @@
-## Work History
-
-decide what to have here.
+## Work
 
 ### [Open Technology Institute @ New America](https://newamerica.org/oti)
 
@@ -13,16 +11,16 @@ decide what to have here.
 #### Projects & Publications
 - Measurement Lab
 - Public Interest Technology
--- Public Interest Tech Baseline Project
--- TechCongress
+-    Public Interest Tech Baseline Project
+-    TechCongress
 - Commotion Wireless
--- Digital Stewards Program
--- Red Hook Wireless Project
--- Community Technology
+-    Digital Stewards Program
+-    Red Hook Wireless Project
+-    Community Technology
 - DataViz Projects
--- Detroit Future Analysis
--- Global Cyber Definitions Database
--- Swing States Visualization
+-    Detroit Future Analysis
+-    Global Cyber Definitions Database
+-    Swing States Visualization
 
 ### Spatial Information Design Lab @ Columbia Univeristy
 
@@ -30,7 +28,7 @@ decide what to have here.
 
 #### Projects
 
-### 
+### Another Position
 
 ## Education
 
@@ -40,12 +38,18 @@ decide what to have here.
 ## Freelance
 
 ### Sweetwater Organics
+
 ### WXY
 
 ## Teaching
 
-### Johns Hopkins University, Aitchenson Program, Fall 2016, "Numbers, Pictures, Politics" with Lee Drutman
-### Columbia University, Graduate School of Architecture, Planning & Presrvation, Urban Planning Program, Fall 2013, "Civic Hacking"
-### Columbia University, Graduate School of Architecture, Planning & Presrvation, Urban Planning Program, Fall 2012, "Civic Hacking"
-### Columbia University, Graduate School of Architecture, Planning & Presrvation, Urban Planning Program, Spring 2012, "Mapping"
-### Columbia University, Graduate School of Architecture, Planning & Presrvation, Urban Planning Program, Fall 2011, "Crowd Sourced City"
+### [Johns Hopkins University, Aitchison Program](http://politicalscience.jhu.edu/undergraduate/aitchison-public-service-fellowship-in-government/)
+
+- Fall 2016, "Numbers, Pictures, Politics" with Lee Drutman
+
+### Columbia University, Graduate School of Architecture, Planning & Presrvation, Urban Planning Program
+
+- Fall 2013, "Civic Hacking"
+- Fall 2012, "Civic Hacking"
+- Spring 2012, "Mapping"
+- Fall 2011, "Crowd Sourced City"
