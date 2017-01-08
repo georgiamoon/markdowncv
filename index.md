@@ -2,6 +2,7 @@
 
 ### [Open Technology Institute @ New America](https://newamerica.org/oti)
 
+````
 #### Roles
 - Director of Technology Projects, Jan 2016 ~ Current
 - Technology Projects Manager, Jun 2015 ~ Jan 2016
@@ -9,18 +10,29 @@
 - Field Operations Technologist, Sept 2012 ~ Aug 2014
 
 #### Projects & Publications
-- Measurement Lab
-- Public Interest Technology
--    Public Interest Tech Baseline Project
--    TechCongress
-- Commotion Wireless
--    Digital Stewards Program
--    Red Hook Wireless Project
--    Community Technology
-- DataViz Projects
--    Detroit Future Analysis
--    Global Cyber Definitions Database
--    Swing States Visualization
+
+Measurement Lab
+- DataViz Redo
+- Observatory
+- Interconnection Report
+
+Public Interest Technology
+- Public Interest Tech Baseline Project
+- [TechCongress](http://techcongress.io)
+
+Commotion Wireless
+- Digital Stewards Program
+- Red Hook Wireless Project
+- Community Technology
+
+Web & DataViz Projects
+- Detroit Future Analysis
+- Global Cyber Definitions Database
+- Swing States Visualization
+- NewAmerica.org
+- ISP's [Security Data Site](http://securitydata.newamerica.org)
+
+````
 
 ### Spatial Information Design Lab @ Columbia Univeristy
 
@@ -32,8 +44,8 @@
 
 ## Education
 
-### MS in Urban Planning, Columbia University, Graduate School of Architecture, Planning & Preservation
-### BS in Psychology & Human-Computer Interation, [Carnegie Mellon University](https://cmu.edu)
+- MS in Urban Planning, Columbia University, Graduate School of Architecture, Planning & Preservation
+- BS in Psychology & Human-Computer Interation, [Carnegie Mellon University](https://cmu.edu)
 
 ## Freelance
 
