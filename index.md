@@ -2,7 +2,6 @@
 
 ### [Open Technology Institute @ New America](https://newamerica.org/oti)
 
-````
 #### Roles
 - Director of Technology Projects, Jan 2016 ~ Current
 - Technology Projects Manager, Jun 2015 ~ Jan 2016
@@ -11,34 +10,36 @@
 
 #### Projects & Publications
 
-Measurement Lab
+##### [Measurement Lab](https://measurementlab.net)
 - DataViz Redo
 - Observatory
 - Interconnection Report
 
-Public Interest Technology
+##### Public Interest Technology
 - Public Interest Tech Baseline Project
 - [TechCongress](http://techcongress.io)
 
-Commotion Wireless
+##### Commotion Wireless
 - Digital Stewards Program
 - Red Hook Wireless Project
 - Community Technology
 
-Web & DataViz Projects
+##### Web & DataViz Projects
 - Detroit Future Analysis
 - Global Cyber Definitions Database
 - Swing States Visualization
 - NewAmerica.org
 - ISP's [Security Data Site](http://securitydata.newamerica.org)
 
-````
-
 ### Spatial Information Design Lab @ Columbia Univeristy
 
 #### Roles
 
 #### Projects
+
+##### Foursquare & Facebook Mapping
+
+##### Check-in Fashion
 
 ### Another Position
 
