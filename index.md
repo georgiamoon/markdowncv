@@ -1,4 +1,4 @@
-## Work
+## Experience
 
 ### [Open Technology Institute @ New America](https://newamerica.org/oti), Washington, DC
 
@@ -43,6 +43,10 @@
 - Foursquare & Facebook Mapping
 - Check-in Fashion
 
+### WXY, New York, NY
+
+### Sweetwater Organics, Milwaukee, WI
+
 ### User Experience Designer, General Dynamics | Viz, Pittsburgh, PA
 
 **Projects**
@@ -51,16 +55,6 @@
 - Secure & Mobile Comotion
 - Command Post of the Future
 
-## Education
-
-- MS in Urban Planning, [Columbia University, Graduate School of Architecture, Planning & Preservation](https://www.arch.columbia.edu/)
-- BS in Psychology & Human-Computer Interation, [Carnegie Mellon University](https://cmu.edu)
-
-## Freelance
-
-### Sweetwater Organics
-
-### WXY
 
 ## Teaching
 
@@ -74,3 +68,9 @@
 - Fall 2012, "Civic Hacking"
 - Spring 2012, "Mapping"
 - Fall 2011, "Crowd Sourced City"
+
+
+## Education
+
+- MS in Urban Planning, [Columbia University, Graduate School of Architecture, Planning & Preservation](https://www.arch.columbia.edu/)
+- BS in Psychology & Human-Computer Interation, [Carnegie Mellon University](https://cmu.edu)
