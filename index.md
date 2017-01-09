@@ -1,4 +1,4 @@
-## Work
+## [Work](#work)
 
 ### [Open Technology Institute @ New America](https://newamerica.org/oti), Washington, DC
 
@@ -51,18 +51,18 @@
 - Secure & Mobile Comotion
 - Command Post of the Future
 
-## Education
+## [Education](#education)
 
 - MS in Urban Planning, [Columbia University, Graduate School of Architecture, Planning & Preservation](https://www.arch.columbia.edu/)
 - BS in Psychology & Human-Computer Interation, [Carnegie Mellon University](https://cmu.edu)
 
-## Freelance
+## [Freelance](#freelance)
 
 ### Sweetwater Organics
 
 ### WXY
 
-## Teaching
+## [Teaching](#teaching)
 
 ### [Johns Hopkins University, Aitchison Program](http://politicalscience.jhu.edu/undergraduate/aitchison-public-service-fellowship-in-government/)
 
