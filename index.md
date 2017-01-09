@@ -20,7 +20,7 @@
   - Public Interest Tech Baseline Project
   - [TechCongress](http://techcongress.io)
 
-- Commotion Wireless
+- [Commotion Wireless](http://commotionwireless.net)
   - Digital Stewards Program
   - Red Hook Wireless Project
   - Community Technology
