@@ -13,6 +13,8 @@
 
 - [Measurement Lab](https://measurementlab.net)
   - DataViz Redo
+  - Seattle Broadband Map Pilot
+  - Alexandra County Public Schools Pilot
   - Research Support
   - Chrome App
   - Observatory
@@ -33,10 +35,12 @@
 
 - Web & DataViz Projects
   - Detroit Future Analysis
-  - Global Cyber Definitions Database
+  - [Data.opentechinstitute.org](https://data.opentechinstitute.org/) -- OTI's CKAN Instance
+  - [Global Cyber Definitions Database](http://cyberdefinitions.newamerica.org/)
   - Swing States Visualization
   - [NewAmerica.org](https://newamerica.org)
   - ISP's [Security Data Site](http://securitydata.newamerica.org)
+  - DataViz Brownbag Lunch Series
 
 ### Data Visualization Specialist, [Spatial Information Design Lab @ Columbia Univeristy](http://spatialinformationdesignlab.org/), New York, NY
 
