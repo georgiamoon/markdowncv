@@ -13,6 +13,8 @@
 
 - [Measurement Lab](https://measurementlab.net)
   - DataViz Redo
+  - Research Support
+  - Chrome App
   - Observatory
   - Interconnection Report
 
@@ -24,7 +26,7 @@
   - Digital Stewards Program
   - Red Hook Wireless Project
   - Community Technology
-  - Admin UI Redesign
+  - Admin/Setup UI Redesign
   - Network Visualizer
   - Website Redesign
   - Local Applications, e.g. [Tidepools](http://tidepools.co)
