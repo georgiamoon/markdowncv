@@ -41,6 +41,14 @@
             <li><a href="#education">Education</a></li>
         </ul>-->
 
+        <div class="page-header">
+        <h2>{% if page.category %}{{ page.category }}{% else %}{{ site.title }}{% endif %}</h2>
+        <h3>{{ page.title }}</h3>
+        </div>
+        <article class="content">
+        {{ content }}
+        </article>
+
       </header>
       <section>
 
