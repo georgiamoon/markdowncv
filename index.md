@@ -4,7 +4,7 @@ Georgia Bullen is the Director of Tech Projects at New America’s Open Technolo
 Selected Projects:
 
 - Currently working on: Measurement Lab, Open Internet, Broadband Adoption, Public Interest Technology, TechCongress, Technology for Social Justice
-- Previously worked on: Civic Innovation, the Red Hook WiFi project, Commotion Wireless, Digital Stewards, Spatial Information Design Lab (SIDL), GD|Viz
+- Previously worked on: Civic Innovation, the Red Hook WiFi project, Commotion Wireless, Digital Stewards, Spatial Information Design Lab (SIDL), GD/Viz
 - [See more](cv.md)
 
 Like what you've seen? georgia @ georgiabullen [dot] com
