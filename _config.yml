@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: Georgia Bullen
 description: <p>fuzzing the lines between tech, policy, design, data and organizing, but really just trying to help solve some problems. </p><p> techpolicy / UX / design / data / dataviz / visualization / urbanplanning / civic / opensource.</p>
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
