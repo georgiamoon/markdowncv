@@ -11,7 +11,7 @@
 
 **Projects & Publications**
 
-- [Measurement Lab](https://measurementlab.net)
+- [Measurement Lab](https://www.measurementlab.net)
   - DataViz Redo
   - Seattle Broadband Map Pilot
   - Alexandra County Public Schools Pilot
