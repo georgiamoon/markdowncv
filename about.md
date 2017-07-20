@@ -7,4 +7,6 @@ Selected Projects:
 - Previously worked on: Civic Innovation, the Red Hook WiFi project, Commotion Wireless, Digital Stewards, Spatial Information Design Lab (SIDL), GD/Viz
 - [See more](cv.md)
 
+People also frequently ask about my [reading list (rss)](https://www.instapaper.com/rss/3003374/7z9HCy9CwNTjtlUbJg7TnhsDLYM).
+
 Like what you've seen? georgia @ georgiabullen [dot] com
