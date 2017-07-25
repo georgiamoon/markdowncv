@@ -52,8 +52,6 @@
         <h2>{% if page.category %}{{ page.category }}{% else %}{{ site.title }}{% endif %}</h2>
         <h3>{{ page.title }}</h3>
         </div>-->
-
-        <div id='map'></div>
         <script>
         L.mapbox.accessToken = 'pk.eyJ1IjoiZ2VvcmdpYWJ1bGxlbiIsImEiOiIwa05xRlU4In0.EkFrVKcwSmgBSjvXVRR83A';
         var map = L.mapbox.map('map', 'mapbox.streets')
@@ -62,8 +60,9 @@
         </script>
         
       </header>
+      <section><div id='map'></div></section>
       <section>
-
+        
       {{ content }}
 
       </section>
