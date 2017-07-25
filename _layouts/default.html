@@ -52,15 +52,8 @@
         <h2>{% if page.category %}{{ page.category }}{% else %}{{ site.title }}{% endif %}</h2>
         <h3>{{ page.title }}</h3>
         </div>-->
-        <script>
-        L.mapbox.accessToken = 'pk.eyJ1IjoiZ2VvcmdpYWJ1bGxlbiIsImEiOiIwa05xRlU4In0.EkFrVKcwSmgBSjvXVRR83A';
-        var map = L.mapbox.map('map', 'mapbox.streets')
-            .setView([40, -74.50], 9);  
-        L.mapbox.styleLayer('mapbox://styles/georgiabullen/cj5j18hji07tt2so4g189e4d4').addTo(map);
-        </script>
         
       </header>
-      <section><div id='map'></div></section>
       <section>
         
       {{ content }}
