@@ -1,0 +1,37 @@
+<html>
+<head>
+    <meta charset='utf-8' />
+    <title></title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.39.1/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.39.1/mapbox-gl.css' rel='stylesheet' />
+    <style>
+        body { margin:0; padding:0; }
+        #map { position:absolute; top:0; bottom:0; width:100%; }
+    </style>
+</head>
+<body>
+
+<style>
+    #menu {
+        position: absolute;
+        background: #fff;
+        padding: 10px;
+        font-family: 'Open Sans', sans-serif;
+    }
+</style>
+
+<div id='map'></div>
+<script>
+mapboxgl.accessToken = 'pk.eyJ1IjoiZ2VvcmdpYWJ1bGxlbiIsImEiOiIwa05xRlU4In0.EkFrVKcwSmgBSjvXVRR83A';
+var map = new mapboxgl.Map({
+    container: 'map',
+    style: 'mapbox://styles/georgiabullen/cj5j18hji07tt2so4g189e4d4',
+    zoom: 13,
+    center: [4.899, 52.372]
+});
+
+</script>
+
+</body>
+</html>
