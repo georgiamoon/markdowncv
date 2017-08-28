@@ -51,14 +51,6 @@
 - [Here Now: Social Media And The Psychological City](http://www.spatialinformationdesignlab.org/projects/here-now-social-media-and-psychological-city)
 - [Made in Midtown](http://www.spatialinformationdesignlab.org/projects/made-midtown)
 
-### WXY, New York, NY
-
-- [Boston School Choice](http://www.wxystudio.com/projects/planning/boston_public_schools_assignment_policy_evaluation_and_geospatial_analysis)
-
-### Sweetwater Organics, Milwaukee, WI
-
-- [AQUAPONS Learning Platform](https://www.hastac.org/wiki/project-qa-sweet-water-aquapons)
-
 ### User Experience Designer, [General Dynamics | Viz](http://www.gdviz.com/index.html), Pittsburgh, PA
 
 **Projects**
@@ -68,6 +60,23 @@
 - Secure & Mobile Comotion
 - Command Post of the Future, [Wikipedia](https://en.wikipedia.org/wiki/Command_Post_of_the_Future), [Youtube](https://www.youtube.com/watch?v=Mq7BqnW4JyE)
 
+## Freelance / Independent
+
+### Web Design, Hosting & Support
+
+**Projects**
+
+- [Capital Rowing Club](http://capitalrowing.org)
+- [Global Sourcing Council](http://gscouncil.org)
+- [jorgeviejo.com](http://jorgeviejo.com)
+
+### WXY, New York, NY
+
+- [Boston School Choice](http://www.wxystudio.com/projects/planning/boston_public_schools_assignment_policy_evaluation_and_geospatial_analysis)
+
+### Sweetwater Organics, Milwaukee, WI
+
+- [AQUAPONS Learning Platform](https://www.hastac.org/wiki/project-qa-sweet-water-aquapons)
 
 ## Teaching
 
