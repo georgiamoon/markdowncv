@@ -69,6 +69,7 @@
 - [Capital Rowing Club](http://capitalrowing.org)
 - [Global Sourcing Council](http://gscouncil.org)
 - [jorgeviejo.com](http://jorgeviejo.com)
+- [meredithsomers.com](http://meredithsomers.com)
 
 ### WXY, New York, NY
 
