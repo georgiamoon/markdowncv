@@ -92,6 +92,7 @@
 
 ## Awards
 
+- 2017-2018, [Practitioner Affliate @ digitalHKS, Harvard Kennedy School](https://projects.iq.harvard.edu/digitalhks/practitioners)
 - 2017, [Mozilla Network50](https://network.mozilla.org/)
 - 2011, [Peer-to-Peer Award](https://www.arch.columbia.edu/student-awards), Columbia University Graduate School of Architecture, Planning & Preservation 
 - 2011, [William Kinne Fellows Prize](https://www.arch.columbia.edu/kinne), Columbia University Graduate School of Architecture, Planning & Preservation
