@@ -1,10 +1,12 @@
 ## Work
 
+### Executive Director, [Simply Secure](https://simplysecure.org), Sept 2018 ~ current
+
 ### [Open Technology Institute @ New America](https://newamerica.org/oti), Washington, DC
 
 **Roles**
 
-- Director of Technology Projects, Jan 2016 ~ Current
+- Director of Technology Projects, Jan 2016 ~ Dec 2018
 - Technology Projects Manager, Jun 2015 ~ Jan 2016
 - Senior Data Analyst, Aug 2014 ~ Jun 2015
 - Field Operations Technologist, Sept 2012 ~ Aug 2014
@@ -12,7 +14,7 @@
 **Projects & Publications**
 
 - [Measurement Lab](https://www.measurementlab.net)
-  - Vizualization Revamp: [Viz.measurementlab.net](http://viz.measurementlab.net/)
+  - [Vizualization Revamp: Viz.measurementlab.net](http://viz.measurementlab.net/)
   - [Seattle Broadband Map Pilot](https://broadbandmap.seattle.gov/)
   - [Alexandria County Public Schools Pilot](https://www.newamerica.org/in-depth/measuring-broadband-alexandrias-schools/)
   - Research Support
@@ -21,6 +23,7 @@
   - [M-Lab Interconnection Report](https://www.measurementlab.net/publications/isp-interconnection-impact.pdf)
 
 - Public Interest Technology
+  - [#MoreThanCode](https://morethancode.cc)
   - [Tech for Social Justice Project](http://t4sj.co) (previously Public Interest Tech Baseline Project)
   - [TechCongress](http://techcongress.io)
 
