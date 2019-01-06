@@ -2,6 +2,8 @@
 
 ### Executive Director, [Simply Secure](https://simplysecure.org), Sept 2018 ~ current
 
+Simply Secure supports practitioners in putting people at the center of trustworthy technology. We provide professional education for user experience designers, researchers, and developers working on privacy, security, transparency, and ethics.
+
 ### [Open Technology Institute @ New America](https://newamerica.org/oti), Washington, DC
 
 **Roles**
