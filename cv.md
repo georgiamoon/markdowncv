@@ -4,6 +4,10 @@
 
 Simply Secure supports practitioners in putting people at the center of trustworthy technology. We provide professional education for user experience designers, researchers, and developers working on privacy, security, transparency, and ethics.
 
+### Advisory Committee Chair, [Measurement Lab](https://measurementLab.net), Jan 2019 ~ current
+
+Measurement Lab (M-Lab) is the largest open internet measurement platform in the world, hosting internet-scale measurement experiments and releasing all data into the public domain (CC0). M-Lab, a fiscally sponsored project of [Code for Science & Society](https://codeforscience.org), advances network research and empowers the public with useful information about broadband and mobile connections, enhancing internet transparency, and helping to promote and sustain a healthy, innovative internet. Read more about the [project](https://measurementlab.net) or explore the [data](https://viz.measurementlab.net).
+
 ### [Open Technology Institute @ New America](https://newamerica.org/oti), Washington, DC
 
 **Roles**
