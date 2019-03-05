@@ -8,11 +8,10 @@ Simply Secure supports practitioners in putting people at the center of trustwor
 
 Measurement Lab (M-Lab) is the largest open internet measurement platform in the world, hosting internet-scale measurement experiments and releasing all data into the public domain (CC0). M-Lab, a fiscally sponsored project of [Code for Science & Society](https://codeforscience.org), advances network research and empowers the public with useful information about broadband and mobile connections, enhancing internet transparency, and helping to promote and sustain a healthy, innovative internet. Read more about the [project](https://measurementlab.net) or explore the [data](https://viz.measurementlab.net).
 
-### [Open Technology Institute @ New America](https://newamerica.org/oti), Washington, DC
+### Director of Technology Projects, [Open Technology Institute @ New America](https://newamerica.org/oti), Washington, DC, Jan 2016 ~ Dec 2018
 
-**Roles**
+**Previous Roles at OTI**
 
-- Director of Technology Projects, Jan 2016 ~ Dec 2018
 - Technology Projects Manager, Jun 2015 ~ Jan 2016
 - Senior Data Analyst, Aug 2014 ~ Jun 2015
 - Field Operations Technologist, Sept 2012 ~ Aug 2014
