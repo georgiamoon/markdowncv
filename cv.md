@@ -63,10 +63,10 @@ Measurement Lab (M-Lab) is the largest open internet measurement platform in the
 
 **Projects**
 
-- [CoMotion](https://en.wikipedia.org/wiki/CoMotion)
-- [TransViz, Supply Chain Management](http://www.gdviz.com/industries/supply-chain-management.html)
+- [CoMotion](https://en.wikipedia.org/wiki/CoMotion) ([Youtube Demo](https://www.youtube.com/watch?v=bFhTlA5qbuk))
+- TransViz, Supply Chain Management
 - Secure & Mobile Comotion
-- Command Post of the Future, [Wikipedia](https://en.wikipedia.org/wiki/Command_Post_of_the_Future), [Youtube](https://www.youtube.com/watch?v=Mq7BqnW4JyE)
+- Command Post of the Future, [Wikipedia](https://en.wikipedia.org/wiki/Command_Post_of_the_Future), [Youtube Overview](https://www.youtube.com/watch?v=Mq7BqnW4JyE)
 
 ## Freelance / Independent
 
