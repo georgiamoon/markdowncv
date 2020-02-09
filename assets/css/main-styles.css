@@ -62,6 +62,10 @@ body {
   font-weight:400;
 }
 
+header, section, footer {
+  border: 2px solid grey;
+}
+
 h1, h2, h3, h4, h5, h6 {
   color:#222;
   margin:0 0 20px;
@@ -153,6 +157,8 @@ img {
 }
 
 header {
+  border-bottom: none;
+  border-right: none;
   background-color: rgba(255, 255, 255, 0.95);
   padding: 1ex;
   grid-area: header;
@@ -170,7 +176,8 @@ header ul a strong {
   color:#222;
 }
 
-section { 
+section {
+  border-left: none;
   padding: 1ex;
   grid-area: content;
   background-color: #eee;
@@ -191,6 +198,8 @@ hr {
 }
 
 footer {
+  border-top: none;
+  border-right: none;
   background-color: rgba(255, 255, 255, 0.95);
   padding: 1ex;
   grid-area: footer;
@@ -198,42 +207,40 @@ footer {
 }
 
 iframe {
+  grid-area: 1/1/-1/-1;
   border: none;
-  height: 100%;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 100%;
-  /* z-index: -1; */
 }
 
 div.wrapper {
   overflow: scroll;
   display: grid;
-  grid-template-areas: 
+  grid-template-areas:
+    ". .      .       ."
     ". header content ."
     ". footer content ."
-    ". .      content .";
+    ". .      content ."
+    ". .      .       .";
   grid-template-columns: 1fr fit-content(240px) fit-content(720px) 1fr;
-  grid-template-rows: min-content 1fr min-content;
+  grid-template-rows: 50px min-content 1fr min-content 50px;
   position: absolute;
-  top: 50px;
+  top: 0px;
   left: 0;
-  bottom: 50px;
+  bottom: 0px;
   right: 0;
-}
-
-div.outline {
-  border: 2px solid grey;
-  grid-area: 1/2/-1/-2;
 }
 
 @media (max-width: 960px) {
   div.wrapper {
     top: 0px;
     bottom: 0px;
+    grid-template-areas:
+      "header content"
+      "footer content"
+      ".      content";
+    grid-template-columns: fit-content(240px) fit-content(720px);
+    grid-template-rows: min-content 1fr min-content;
   }
-  div.outline {
+  header, section, footer {
     border: none;
   }
 }
@@ -246,6 +253,7 @@ div.outline {
       "content";
     grid-template-columns: initial;
     grid-template-rows: initial;
+    bottom: initial;
   }
 
   section {
