@@ -201,6 +201,16 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+iframe {
+  border: none;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: -1;
+}
+
 @media print, screen and (max-width: 960px) {
 
   div.wrapper {
