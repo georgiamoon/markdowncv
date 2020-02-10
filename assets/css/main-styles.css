@@ -244,6 +244,9 @@ div.wrapper {
   header, section, footer {
     border: none;
   }
+  iframe {
+    grid-area: 1/1/-1/-2;
+  }
 }
 
 @media (max-width: 720px) {
@@ -263,6 +266,10 @@ div.wrapper {
 
   pre, code {
     word-wrap:normal;
+  }
+  
+  iframe {
+    grid-area: 1/1/-2/-1;
   }
 }
 
