@@ -9,6 +9,6 @@ Currently working on:
 - [TechCongress](https://techcongress.io)
 - [See more](cv.md)
 
-People also frequently ask about my [reading list (rss)](https://www.instapaper.com/rss/3003374/7z9HCy9CwNTjtlUbJg7TnhsDLYM).
+People also frequently ask about my [reading list (rss)](https://www.instapaper.com/rss/3003374/7z9HCy9CwNTjtlUbJg7TnhsDLYM) or [my job's list](https://groups.google.com/forum/#!forum/ga-list).
 
 Want to talk more? georgia @ georgiabullen [dot] com
