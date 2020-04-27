@@ -1,6 +1,6 @@
 backend:
     name: github
-    repo: georgiamoon/georgiamoon.github.io
+    repo: georgiamoon/cv
     branch: master
     site_domain: admiring-clarke-5754db.netlify.com
   
