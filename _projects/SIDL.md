@@ -1,3 +1,10 @@
+---
+title: More SIDL Projects
+date: 2020-04-27T00:34:15.606Z
+tags:
+  - sidl
+---
+
 ## more SIDL projects
 
 Research Assistant @ Spatial Information Design Lab, Dec 2009 - May 2011
