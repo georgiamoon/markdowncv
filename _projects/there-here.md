@@ -1,3 +1,10 @@
+---
+title: There + Here
+date: 2020-04-27T00:40:50.909Z
+tags:
+  - sidl
+---
+
 ## there + here
 
 Building on [Terre Natale: Exits](http://spatialinformationdesignlab.org/projects.php?id=107), "There+Here" is a project about telling the stories of remittances. Using remittances data, census data, field visits, and interviews, we are working to understand this phenomenon and its spatial manifestations in New York City, and its paired location elsewhere — sometimes rural, sometimes urban.

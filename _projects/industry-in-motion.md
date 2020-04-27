@@ -1,3 +1,10 @@
+---
+title: Industry in Motion
+date: 2020-04-27T00:40:50.909Z
+tags:
+  - sidl
+---
+
 ## industry in motion
 
 <iframe src="https://player.vimeo.com/video/35304141" width="640" height="427" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>

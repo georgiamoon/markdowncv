@@ -1,3 +1,10 @@
+---
+title: Crowd Sourced City
+date: 2020-04-27T00:40:50.909Z
+tags:
+  - sidl
+---
+
 ## crowd sourced city
 
 The Spatial Information Design Lab was recently been funded by Navteq/Nokia to teach a workshop course that looks at how data collected by cell phones and social media websites can be analyzed to understand and inform city processes.
