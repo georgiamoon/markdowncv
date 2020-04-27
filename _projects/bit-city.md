@@ -1,3 +1,11 @@
+---
+title: BitCity
+date: 2020-04-27T00:40:50.909Z
+tags:
+  - sidl
+  - conference
+  - city
+---
 ## bit city conference
 
 There is more data in the world than ever before, and there will soon be far more. According to the International Data Corporation (IDC) , “In 2011 alone, 1.8 zettabytes (or 1.8 trillion gigabytes) of data will be created, the equivalent to every U.S. citizen writing 3 tweets per minute for 26,976 years.” New data collected from embedded devices in common items such as clothing, cell phones, vehicles, roads, buildings and anything else you can think of will fundamentally change the way we plan, finance and move about our cities.
