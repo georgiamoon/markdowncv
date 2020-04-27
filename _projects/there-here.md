@@ -1,5 +1,6 @@
 ---
 title: There + Here
+slug: there-here
 date: 2020-04-27T00:40:50.909Z
 tags:
   - sidl
